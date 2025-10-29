@@ -1,4 +1,4 @@
-# Carte-des-kebabs-de-Paris
+# Carte des kebabs de Paris
 > Projet de groupe
 ## Nos inspirations
 - 🎥 [Vidéo plan de carte](https://www.youtube.com/watch?v=ZPmQJz-ZPwQ&t=3s) sur la chaîne YouTube Les Echos.
